@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-### My Blogs
+### Blogs
 
 - [New Relic を使った Rails アプリのパフォーマンス測定をより便利にするツール](https://kudojp.github.io/Rails-NewRelic-TechBlog2020.pdf) (2020.12)
 - Beautiful algorithms used in a compiler and a stack based virtual machine (2021.12)
