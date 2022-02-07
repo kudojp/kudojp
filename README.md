@@ -35,11 +35,15 @@ Here are some ideas to get you started:
 
 <details>
 <summary>Google Certificate, Professional Cloud Developer (2021.7)</summary>
+
 ![image](https://user-images.githubusercontent.com/44487754/149964212-b5bc31df-1829-4547-ad4d-533198c32ca3.png)
+
 </details>
 
 <details>
 <summary>Udacity Data Scientist Nanodegree (2019.5)</summary>
+
 ![image](https://user-images.githubusercontent.com/44487754/149965064-9e87932e-b26d-4034-af49-87aaff8f3c01.png)
+
 </details>
 
