@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Certificates
 
 <details>
-<summary>Google Certificate, Professional Cloud Developer (2021.7)</summary>
+<summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
 
 ![image](https://user-images.githubusercontent.com/44487754/149964212-b5bc31df-1829-4547-ad4d-533198c32ca3.png)
 
