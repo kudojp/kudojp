@@ -18,8 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Libraries
 
+- (Ruby gem) [rails_filters_tracer](https://github.com/kudojp/rails_filters_tracer)
 
+### Personal Projects
+
+- [MonkeyCompiler-Golang2021](https://github.com/kudojp/MonkeyCompiler-Golang2021)
+- [DietApp-Rails2020](https://github.com/kudojp/DietApp-Rails2020)
+- [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
+- [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
 ### Blogs
 
@@ -30,6 +38,7 @@ Here are some ideas to get you started:
   - Part 4. [How to compile functions](https://www.wantedly.com/users/67312544/post_articles/367694)
   - Part 5. [What Monkey does not have, but Java has](https://www.wantedly.com/users/67312544/post_articles/366601)
 - [New Relic を使った Rails アプリのパフォーマンス測定をより便利にするツール](https://kudojp.github.io/Rails-NewRelic-TechBlog2020.pdf) (2020.12)
+
 
 ### Certificates
 
