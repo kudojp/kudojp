@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Libraries
+### 🚀 My open source softwares
 
 - (Ruby gem) [rails_filters_tracer](https://github.com/kudojp/rails_filters_tracer)
 
-### Personal Projects
+### 🌱 My personal projects
 
 - [MonkeyCompiler-Golang2021](https://github.com/kudojp/MonkeyCompiler-Golang2021)
 - [DietApp-Rails2020](https://github.com/kudojp/DietApp-Rails2020)
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
-### Blogs
+### 📚 My blog posts
 
 - Beautiful algorithms used in a compiler and a stack based virtual machine (2021.12)
   - Part 1. [Design of the Monkey compiler](https://www.wantedly.com/users/67312544/post_articles/363007)
@@ -39,8 +39,11 @@ Here are some ideas to get you started:
   - Part 5. [What Monkey does not have, but Java has](https://www.wantedly.com/users/67312544/post_articles/366601)
 - [New Relic を使った Rails アプリのパフォーマンス測定をより便利にするツール](https://kudojp.github.io/Rails-NewRelic-TechBlog2020.pdf) (2020.12)
 
+### 🎤 My presentations
 
-### Certificates
+- [22/05/13] [Ruby の FiberScheduler を布教したい](https://speakerdeck.com/kudojp/ruby-false-fiberscheduler-wobu-jiao-sitai) (Wantedly Tech Lunch)
+
+### 🏆 My certificates
 
 <details>
 <summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
