@@ -55,7 +55,15 @@ Here are some ideas to get you started:
 <details>
 <summary>Udacity Data Scientist Nanodegree (2019.5)</summary>
 
-![image](https://user-images.githubusercontent.com/44487754/149965064-9e87932e-b26d-4034-af49-87aaff8f3c01.png)
+![image](https://user-images.githubusercontent.com/44487754/178152240-a6bf6046-caaa-4a13-a045-631f64be0752.png)
 
 </details>
+
+<details>
+<summary>Udacity Data Analyst Nanodegree (2018.11)</summary>
+
+![image](https://user-images.githubusercontent.com/44487754/178152177-f5a1a791-9abd-462f-a027-52ae89a78ea1.png)
+
+</details>
+
 
