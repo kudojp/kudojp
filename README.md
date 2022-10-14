@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
+Also, [I've solved 380 algorithm problems in LeetCode](https://leetcode.com/kudojp/).
+
 ### 📚 My blog posts
 
 - Beautiful algorithms used in a compiler and a stack based virtual machine (2021.12)
