@@ -48,23 +48,30 @@ Also, [I've solved 380 algorithm problems in LeetCode](https://leetcode.com/kudo
 ### 🏆 My certificates
 
 <details>
-<summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
+<summary>AWS Certified Solutions Architect – Associate (2022.12)</summary>
 
-![image](https://user-images.githubusercontent.com/44487754/149964212-b5bc31df-1829-4547-ad4d-533198c32ca3.png)
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/206245683-4d1ea606-bca3-4f18-8fbd-948d8d21d02a.png">
+
+</details>
+
+<details>
+<summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
+  
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/149964212-b5bc31df-1829-4547-ad4d-533198c32ca3.png">
 
 </details>
 
 <details>
 <summary>Udacity Data Scientist Nanodegree (2019.5)</summary>
 
-![image](https://user-images.githubusercontent.com/44487754/178152240-a6bf6046-caaa-4a13-a045-631f64be0752.png)
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/178152240-a6bf6046-caaa-4a13-a045-631f64be0752.png">
 
 </details>
 
 <details>
 <summary>Udacity Data Analyst Nanodegree (2018.11)</summary>
 
-![image](https://user-images.githubusercontent.com/44487754/178152177-f5a1a791-9abd-462f-a027-52ae89a78ea1.png)
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/178152177-f5a1a791-9abd-462f-a027-52ae89a78ea1.png">
 
 </details>
 
