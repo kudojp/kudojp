@@ -52,7 +52,10 @@ Also, [I've solved 380 algorithm questions in LeetCode](https://leetcode.com/kud
 
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/206245683-4d1ea606-bca3-4f18-8fbd-948d8d21d02a.png">
 
+[Here](https://www.credly.com/badges/f024bc7c-73ad-4c33-b7bd-ed32895ce2f1) is the badge.
+
 </details>
+
 
 <details>
 <summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
