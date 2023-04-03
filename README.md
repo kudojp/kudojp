@@ -48,11 +48,20 @@ Also, [I've solved 380 algorithm questions in LeetCode](https://leetcode.com/kud
 ### 🏆 My certificates
 
 <details>
+<summary>AWS Certified Solutions Architect – Professional (2023.4)</summary>
+
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/229392239-34bcfae3-1726-4a99-8b4a-8b6d92435e28.png">
+
+[Here](https://www.credly.com/badges/4009fb80-6a1f-418f-a5f4-1780e15b3186/public_url) is the badge.
+
+</details>
+
+<details>
 <summary>AWS Certified Solutions Architect – Associate (2022.12)</summary>
 
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/206245683-4d1ea606-bca3-4f18-8fbd-948d8d21d02a.png">
 
-[Here](https://www.credly.com/badges/f024bc7c-73ad-4c33-b7bd-ed32895ce2f1) is the badge.
+[Here]([https://www.credly.com/badges/f024bc7c-73ad-4c33-b7bd-ed32895ce2f1](https://www.credly.com/badges/4009fb80-6a1f-418f-a5f4-1780e15b3186/public_url)) is the badge.
 
 </details>
 
