@@ -61,7 +61,7 @@ Also, [I've solved 380 algorithm questions in LeetCode](https://leetcode.com/kud
 
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/206245683-4d1ea606-bca3-4f18-8fbd-948d8d21d02a.png">
 
-[Here](https://www.credly.com/badges/4009fb80-6a1f-418f-a5f4-1780e15b3186/public_url) is the badge.
+[Here](https://www.credly.com/badges/581d620c-4378-4432-a49c-d038a0235e59/public_url) is the badge.
 
 </details>
 
