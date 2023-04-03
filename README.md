@@ -68,8 +68,10 @@ Also, [I've solved 380 algorithm questions in LeetCode](https://leetcode.com/kud
 
 <details>
 <summary>Google Cloud Certified, Professional Cloud Developer (2021.7)</summary>
-  
+
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/44487754/149964212-b5bc31df-1829-4547-ad4d-533198c32ca3.png">
+  
+[Here](https://www.credential.net/48e07b87-7da6-4fb9-a563-374dc3da3834)  is the certificate.
 
 </details>
 
