@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 🚀 My open source softwares
 
+- (Ruby gem) [async_scheduler](https://github.com/kudojp/async_scheduler)
 - (Ruby gem) [rails_filters_tracer](https://github.com/kudojp/rails_filters_tracer)
 
 ### 🌱 My personal projects
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
-Also, [I've solved 411 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python.
+Also, [I've solved 418 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python.
 
 ### 📚 My blog posts
 
