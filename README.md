@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
-Also, I've solved [770 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python.
+Also, I've solved [790 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python.
 
 ### 📚 My blog posts
 
