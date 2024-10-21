@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
-Also, I've solved [790 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python.
+Also, I've solved [820 algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python or Scala.
 
 ### 📚 My blog posts
 
@@ -47,6 +47,16 @@ Also, I've solved [790 algorithm questions in LeetCode](https://leetcode.com/kud
 - [22/05/13] [Ruby の FiberScheduler を布教したい](https://speakerdeck.com/kudojp/ruby-false-fiberscheduler-wobu-jiao-sitai) (Wantedly Tech Lunch)
 
 ### 🏆 My certificates
+
+<details>
+<summary>LeetCode – Knight badge (2024.5)</summary>
+
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/a7f3b2da-2498-462a-bbc9-449ca52250c4">
+
+The badge can be found [here](https://leetcode.com/u/kudojp/).
+
+
+</details>
 
 <details>
 <summary>AWS Certified Solutions Architect – Professional (2023.4)</summary>
