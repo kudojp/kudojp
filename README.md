@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [TourReservationSystem-Java2019](https://github.com/kudojp/TourReservationSystem-Java2019)
 - [StarbucksPromotionAnalysis-Python2019](https://github.com/kudojp/StarbucksPromotionAnalysis-Python2019)
 
-Also, I've solved [1000+ algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python or Scala.
+Also, I've solved [1200+ algorithm questions in LeetCode](https://leetcode.com/kudojp/) in Python or Scala.
 
 ### 📚 My blog posts
 
@@ -49,12 +49,18 @@ Also, I've solved [1000+ algorithm questions in LeetCode](https://leetcode.com/k
 ### 🏆 My certificates
 
 <details>
-<summary>LeetCode – Knight badge (2024.5)</summary>
+<summary>LeetCode – Guardian badge (2025.4)</summary>
 
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/a7f3b2da-2498-462a-bbc9-449ca52250c4">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/21af6d3a-afaf-472c-a18c-eb42313e3c35">
 
 The badge can be found [here](https://leetcode.com/u/kudojp/).
 
+</details>
+
+<details>
+<summary>LeetCode – Knight badge (2024.5)</summary>
+
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/a7f3b2da-2498-462a-bbc9-449ca52250c4">
 
 </details>
 
